@@ -1,0 +1,15 @@
+C:\Users\livem\Downloads\thu7\QuanLyTaiLieu\QuanLyCongVan.Domain\bin\Debug\net5.0\QuanLyTaiLieu.Domain.deps.json
+C:\Users\livem\Downloads\thu7\QuanLyTaiLieu\QuanLyCongVan.Domain\bin\Debug\net5.0\QuanLyTaiLieu.Domain.runtimeconfig.json
+C:\Users\livem\Downloads\thu7\QuanLyTaiLieu\QuanLyCongVan.Domain\bin\Debug\net5.0\QuanLyTaiLieu.Domain.runtimeconfig.dev.json
+C:\Users\livem\Downloads\thu7\QuanLyTaiLieu\QuanLyCongVan.Domain\bin\Debug\net5.0\QuanLyTaiLieu.Domain.dll
+C:\Users\livem\Downloads\thu7\QuanLyTaiLieu\QuanLyCongVan.Domain\bin\Debug\net5.0\QuanLyTaiLieu.Domain.pdb
+C:\Users\livem\Downloads\thu7\QuanLyTaiLieu\QuanLyCongVan.Domain\obj\Debug\net5.0\QuanLyTaiLieu.Domain.csproj.AssemblyReference.cache
+C:\Users\livem\Downloads\thu7\QuanLyTaiLieu\QuanLyCongVan.Domain\obj\Debug\net5.0\QuanLyTaiLieu.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livem\Downloads\thu7\QuanLyTaiLieu\QuanLyCongVan.Domain\obj\Debug\net5.0\QuanLyTaiLieu.Domain.AssemblyInfoInputs.cache
+C:\Users\livem\Downloads\thu7\QuanLyTaiLieu\QuanLyCongVan.Domain\obj\Debug\net5.0\QuanLyTaiLieu.Domain.AssemblyInfo.cs
+C:\Users\livem\Downloads\thu7\QuanLyTaiLieu\QuanLyCongVan.Domain\obj\Debug\net5.0\QuanLyTaiLieu.Domain.csproj.CoreCompileInputs.cache
+C:\Users\livem\Downloads\thu7\QuanLyTaiLieu\QuanLyCongVan.Domain\obj\Debug\net5.0\QuanLyTaiLieu.Domain.dll
+C:\Users\livem\Downloads\thu7\QuanLyTaiLieu\QuanLyCongVan.Domain\obj\Debug\net5.0\refint\QuanLyTaiLieu.Domain.dll
+C:\Users\livem\Downloads\thu7\QuanLyTaiLieu\QuanLyCongVan.Domain\obj\Debug\net5.0\QuanLyTaiLieu.Domain.pdb
+C:\Users\livem\Downloads\thu7\QuanLyTaiLieu\QuanLyCongVan.Domain\obj\Debug\net5.0\QuanLyTaiLieu.Domain.genruntimeconfig.cache
+C:\Users\livem\Downloads\thu7\QuanLyTaiLieu\QuanLyCongVan.Domain\obj\Debug\net5.0\ref\QuanLyTaiLieu.Domain.dll
